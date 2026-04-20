@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class DeclaracionDeVariables : MonoBehaviour
 {
+        public int VariableInt;
+        public string VariableString;
+        public bool VariableBool;
+        public float VariableFloat;
+        
     // Start is called before the first frame update
     void Start(){
     
