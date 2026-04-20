@@ -9,6 +9,7 @@ public class DatosDelUsuario : MonoBehaviour
         public bool donante;
         public float estatura;
         string respuesta;
+        
     // Start is called before the first frame update
     void Start(){
      if (donante=true){
